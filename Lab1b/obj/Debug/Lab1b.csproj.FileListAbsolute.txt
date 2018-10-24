@@ -1,0 +1,7 @@
+C:\Users\chadm\source\repos\Lab1b\Lab1b\bin\Debug\Lab1b.exe.config
+C:\Users\chadm\source\repos\Lab1b\Lab1b\bin\Debug\Lab1b.exe
+C:\Users\chadm\source\repos\Lab1b\Lab1b\bin\Debug\Lab1b.pdb
+C:\Users\chadm\source\repos\Lab1b\Lab1b\obj\Debug\Lab1b.csprojAssemblyReference.cache
+C:\Users\chadm\source\repos\Lab1b\Lab1b\obj\Debug\Lab1b.csproj.CoreCompileInputs.cache
+C:\Users\chadm\source\repos\Lab1b\Lab1b\obj\Debug\Lab1b.exe
+C:\Users\chadm\source\repos\Lab1b\Lab1b\obj\Debug\Lab1b.pdb
